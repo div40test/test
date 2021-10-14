@@ -34,3 +34,5 @@ steps:
     cliProjectKey: 'secdiv01_test-02'
     cliProjectName: 'test 02'
     cliSources: '.'
+    cliProjectVersion: 
+- task: SonarCloudAnalyze@1
